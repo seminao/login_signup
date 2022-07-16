@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "seminao",
+            "password": "SEmi12!@",
+            "Profile": {
+                "description": "hello im seminao ",
+                "D.O.B": "2/3/3456",
+                "Gender": "female",
+                "Hobbies": "singing"
+            }
+        }
+    ]
+}
